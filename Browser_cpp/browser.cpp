@@ -12,3 +12,5 @@ Browser::~Browser()
 {
     delete ui;
 }
+
+
